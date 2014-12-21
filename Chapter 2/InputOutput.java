@@ -32,6 +32,6 @@ public class InputOutput {
       System.out.print(name);
       System.out.print(", how are you doing today?");
 
-  } // End the main code block with a closing curly brace
+   } // End the main code block with a closing curly brace
 
 } // End the container with a closing curly brace

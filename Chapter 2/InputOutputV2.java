@@ -39,6 +39,6 @@ public class InputOutputV2 {
       System.out.print(", I know you live at ");
       System.out.println(address);
 
-  } // End the main code block with a closing curly brace
+   } // End the main code block with a closing curly brace
 
 } // End the container with a closing curly brace
